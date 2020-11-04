@@ -1,3 +1,5 @@
+![Header](./cover-small.png 'Header')
+
 ### Hi there - I'm Bjarne Gerhardt-Pedersen and I am a Frontend Web Developer 👋
 
 <!--
