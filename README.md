@@ -1,6 +1,8 @@
 ![Header](./cover-small.png 'Header')
 
-### Hi there - I'm Bjarne Gerhardt-Pedersen and I am a Frontend Web Developer 👋
+<h1 style="text-align:center">Hi! :wave:</h1>
+
+I'm Bjarne Gerhardt-Pedersen.
 
 <!--
 **bgpedersen/bgpedersen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
