@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there - I'm Bjarne Gerhardt-Pedersen and I am a Frontend Web Developer 👋
 
 <!--
 **bgpedersen/bgpedersen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
