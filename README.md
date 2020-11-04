@@ -1,20 +1,16 @@
 ![Header](./cover-small.png 'Header')
 
-<h1 style="text-align:center">Hi! :wave:</h1>
+<h1 style="text-align: center;">Hi! :wave:</h1>
 
-I'm Bjarne Gerhardt-Pedersen.
+I'm Bjarne Gerhardt-Pedersen and I'm a Frontend Web Developer. I have been developing web applications since 2011 and have a bachelor's degree in Web Development. I'm from Denmark, Copenhagen and currently working at [Dinero](https://dinero.dk/).
 
-<!--
-**bgpedersen/bgpedersen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My stats
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: grid; grid-template-columns: 1fr 1fr; grid-auto-rows: 1fr; gap: 10px">
+<div>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgpedersen&count_private=true&theme=dark" />
+</div>
+<div>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=bgpedersen&count_private=true&theme=dark&hide=prs,issues,contribs" />
+</div>
+</div>
