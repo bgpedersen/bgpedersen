@@ -2,13 +2,15 @@
 
 <h1 style="text-align: center;">Hi! :wave:</h1>
 
-## :technologist: Who I am
+<!-- markdownlint-disable MD026 -->
+
+## :technologist:
 
 I'm <strong>Bjarne Gerhardt-Pedersen</strong> and I'm a <strong>Frontend Web Developer</strong>.
 
 I have been developing web applications since 2011 and have a bachelor's degree in Web Development. I'm from Denmark, Copenhagen and currently working at [Dinero](https://dinero.dk/).
 
-## :hammer_and_wrench: My Skills
+## :hammer_and_wrench: Skills
 
 - Frontend programming - JavaScript, TypeScript, HTML, CSS & SCSS
 - Client-side frameworks - Angular & AngularJS (1.x)
