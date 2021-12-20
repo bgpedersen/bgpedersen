@@ -6,7 +6,7 @@
 
 ## :technologist:
 
-I'm <strong>Bjarne Gerhardt-Pedersen</strong> and I'm a <strong>Frontend Web Developer</strong>.
+I'm <strong>Bjarne Gerhardt-Pedersen</strong> and I'm a <strong>Lead Frontend Developer</strong>.
 
 I have been developing web applications since 2011 and have a bachelor's degree in Web Development. I'm from Denmark, Copenhagen and currently working at [Visma Dinero](https://dinero.dk/).
 
