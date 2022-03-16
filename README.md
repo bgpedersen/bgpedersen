@@ -1,5 +1,3 @@
-![Header](./cover-small.png 'Header')
-
 <h1 style="text-align: center;">Hi! :wave:</h1>
 
 <!-- markdownlint-disable MD026 -->
