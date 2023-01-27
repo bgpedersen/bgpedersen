@@ -13,9 +13,9 @@ Since 2015, I have worked professionally with web apps built in Google's open so
 I closely follow developments within JavaScript, TypeScript and Angular and use it in my daily work.
 
 ## :hammer_and_wrench: Currently working with
--Frontend programming - JavaScript, TypeScript, HTML & SCSS
--Client-side frameworks - Angular
--Reactive Programming - RxJS
--State Management - NgRx
--Versioning - Git & GitHub
--Automated testing - Jest & Cypress
+- Frontend programming - JavaScript, TypeScript, HTML & SCSS
+- Client-side frameworks - Angular
+- Reactive Programming - RxJS
+- State Management - NgRx
+- Versioning - Git & GitHub
+- Automated testing - Jest & Cypress
